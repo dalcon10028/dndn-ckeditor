@@ -167,7 +167,6 @@ Editor.defaultConfig = {
       'insertTable',
       'htmlEmbed',
       'mediaEmbed',
-      'imageUpload',
       'imageInsert',
       '|',
       'outdent',
